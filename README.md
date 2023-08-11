@@ -16,5 +16,16 @@ repetidas vezes, até que use a opção “3”, que encerra o algoritmo.
 
 ![Screenshot 2023-08-10 182405](https://github.com/monocat-neko/console_exercises/assets/129681589/0a27885a-289c-4a0d-9592-536df6cf7f77)
 
+## Problema 5 (in pt-br)
+Monte um programa Java que mostre na tela em formato de tabela os
+quartos ocupados e os desocupados. Considere que o hotel tem 4 andares e 3 
+quartos por andar. Primeiro, o usuário registrará os quartos ocupados, 
+informando para cada ocupação o número do apartamento (andar de 1 a 4 e 
+número de quarto de 1 a 3). O programa deverá questionar “Deseja informar 
+outra ocupação? (S/N)” e o usuário poderá informar quantos quartos quiser, até 
+que responda “N” a essa pergunta. Em seguida, o programa mostrará uma 
+tabela, em que o primeiro andar é o inferior e o último, o superior, marcando
+com X o quarto ocupado.
+
 Made by,</br>
 **Neko_**
