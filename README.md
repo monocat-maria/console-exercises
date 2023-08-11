@@ -13,6 +13,8 @@ válido, deverá ser mostrado na tela qual dos auditórios é o mais adequado. N
 do auditório Alfa, será preciso calcular ainda quantas cadeiras adicionais serão 
 necessárias, observando o limite citado anteriormente.
 
+![1](https://github.com/monocat-neko/console_exercises/assets/129681589/f3251252-be33-4b54-9b5d-32500882f798)
+
 ## Problema 2 (in pt-br)
 Escreva um programa Java que faça a troca de quartos entre dois hospedes. É 
 preciso que ele receba o nome de um cliente e sua idade; o cliente a princípio será
@@ -23,6 +25,8 @@ no quarto B. Além disso, se a pessoa mais velha for idosa (com 60 anos ou mais)
 terá desconto de 40%. O programa deve mostrar ao final o nome do cliente que
 ficou no quarto A e o desconto, se houver, e o nome do cliente que ficou no quarto
 B.
+
+![2](https://github.com/monocat-neko/console_exercises/assets/129681589/c714a127-18fd-42af-ad25-58ec66bdce29)
 
 ## Problema 3 (in pt-br)
 Escreva um programa Java que receba o valor padrão de uma diária e em
@@ -35,6 +39,7 @@ até digitar a palavra “PARE”, que interrompe a entrada de dados. Ao fim, o
 programa deve mostrar a quantidade de gratuidades, a quantidade de meias 
 hospedagens e o valor total, considerando todos os hóspedes informados.
 
+![3](https://github.com/monocat-neko/console_exercises/assets/129681589/93649897-48a6-485a-b6c4-91dcaa9a2f73)
 
 ## Problema 4 (in pt-BR)
 Monte um algoritmo em que o usuário poderá cadastrar e pesquisar hóspedes. O 
