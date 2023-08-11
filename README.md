@@ -61,5 +61,7 @@ que responda “N” a essa pergunta. Em seguida, o programa mostrará uma
 tabela, em que o primeiro andar é o inferior e o último, o superior, marcando
 com X o quarto ocupado.
 
+![Screenshot 2023-08-11 171513](https://github.com/monocat-neko/console_exercises/assets/129681589/b80761e2-b907-4e69-bb16-3969b846977d)
+
 Made by,</br>
 **Neko_**
