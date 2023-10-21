@@ -1,5 +1,5 @@
 # console_exercises
-A very useful Java console codes to exercise the basic of programming logic
+A very useful Java console codes to exercise the basic of programming logic in portuguese.
 
 ## Problema 1 (in pt-br)
 Relativo ao atendimento de eventos, o hotel necessita de uma funcionalidade 
